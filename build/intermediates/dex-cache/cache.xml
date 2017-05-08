@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\cd14d68c930bf7595fac4e02957a300b8f7a3117\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_6a5426ea1b3d2b366cb0b5e417ec9723c054b7d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\bff5cf7c924c92807ceec5fafb2855fdb4992aee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_2a085738c44e15fc816e2ce4380e0ec87f88b844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\16c1fc1eff28fd8809cd8b93bdae3fd95bac1ef0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_7f1cca45526dad50b6270bb2d8020e22eef37e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_fe214b632168193088ca820a30335d8c7967daef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\5b1dfcdff6f9e88a00d47940186cc46f6a8d7a91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_2d5d4f6a9b55bb2e46e1e5b66c70f8326671a200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\8deb8af485f0388115591d13ed47bc75b8bddb02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_ddadb64ce62f45722f43a2dee8db59f9e16b2bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.4.0_bb5d5c47b8ce64dfcb04385109f05a04714fb0fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\c8d14cb80382ec7650ef6592506dce785345d5a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_447d40b8c58061613c5537ab551d77ab4f746aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_619e6e43819e3821d724f43900e57b9ef0b68f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\cf141be4e9d4b5147af59d3f4ff65b93ceb54764\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_67e034628f3a3e8fa2dce064125f2f63e9d833c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\0b00972a935df8b51edb78eb259d8ce0cc6896e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_2588edfdc44cda505c22175de8583a5a7d3d38c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\d50c5b7162f2d9072ab2a116ae72439f43759cd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_f17755af75ae8d64d84ba4f4809c48417df3ba98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\5e06fd9586c3be70ea3332dfe90033d95da0bcd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_d399593bcdec9f1118d62cc83e2775495a0bd3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\472dee5ca8272476834f408adec37e4509303d7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_c34548410e0aa029ea628237140cd673c2d0c597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\86a2d80f6c2337b1b09d2a76c757ab515d00cb73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_f60895990ead87763d6bf26cd7957ecf85810e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\f16f77efd71fa6d9a49cbfca65b1845df5066895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_19a944f6774d6b7b905d579b6eff0cb47d9ff4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\b4ae3a0a0e911155a79929471d1e574e15a5d073\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_867fd9bf4233ebf1276167e5e60128c2de015253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\7e7ba18f8328d55c392636c787e64d20dff5d74e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_00f102c391b6c87772b1147c8c8df919541be356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_c2298143f23e08f8e71d1181eae70c42d36d82bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\1374c6fad5fa911f24ee495f5d9ae1d35485f188\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_4959401643b5e1d1c47369e511250d3a23a1e0f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_3086aca768071594adcafd171a562af601bd8950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\a5a8a9f3eddb40c847ea973c8270c69225ae9ec1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_c442599bb06876d4f9ee5017427311667ce00437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\8a79d05920a6a4b470cc956911193f2b7e049612\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_986977a6fb489caaea0b54802f8644742bbbad1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\fae9e046ddab710f69a59f63af27d4d8be6d6293\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_f0f0c2406ca7b2a9b21a011f8f172b318fed5808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d17283734b79dd21ae5de50c6ea29eb867a58d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\13a573a17021a127842ebfa7825ede0fa557e913\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_b743928557348f71f05dc9920bbe72db4ef87fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\glide-3.7.0_49ea445b8c9e10b4b0ea5ad74bdf47f575e53e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\d360baf0829f3a38268c82a8d8d46953526bf60e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_2923b38f8e9c30225d4fe38a6bd3e86042db391a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\51935a6a3b256f5be085cea633e7631053621c72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_ffe795f5d20fd517b022e427fba843805b09d89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_c2298143f23e08f8e71d1181eae70c42d36d82bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\d17a879328b5ed6134208682e45ffe114da672a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_ca8921960d49274d40cc7984b37a4c127cd5612d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\4bbc39f053747bcd35a67afa416a0e46e2d97799\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_82262d2db720f84c041e40c63f8d5ea14ef7b24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_3be28dc6a3adf786199427717dc31fe4ddac1530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_88e67ce4c707196547330d3e1120465c6b07872a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\862c628a1dc24ae3017a7c42f9bec10aa57c1e44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_beedf1e0704a3f72ed27dc1eba12e172830af1ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\003ea1184310c3b4178b6bf45e0d5dfa8618637f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_ee0455199775c590fad59e73becf899ebd47abaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\6e23caec2f81c83836b5f44cb75d96ec35e36446\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_defb158e2bd81cdce83f0f1cf7d76c14c78f11ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.4.0_a0c274f36a4431282dd2fe096882c53471aa0ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\glide-3.7.0_49ea445b8c9e10b4b0ea5ad74bdf47f575e53e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\acae9bf298d2f378c7e014b76dc79597e1d893d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_7c390f4d8fc47a77b92e3885e84e137a12b064ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d17283734b79dd21ae5de50c6ea29eb867a58d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\c6ed991dd7632b6cf73c25bbe47f7bf6bd46eb9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_6fe57a7a7626d971acf359e408dea39510383e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_3be28dc6a3adf786199427717dc31fe4ddac1530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_42c30d7adbeaf2d368121927612e2f21ac941907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\5e8bd490c91b5e252844ae6927b1736b205f1319\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_ec1f576e9abefd9cc880f2a8dfe6e5d9da909c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\2361c9043325751bbc0b3824b2fe19e4c6e62ec0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_e438adb944c2f003f0dac463d1a83bd06fc5e44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_fe214b632168193088ca820a30335d8c7967daef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\d9e200b8b830d7cde15c11b08c2b2cfdac4f07ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_402e72c3dc08c3df222f44ef70015800c353f2ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\ded94bd43fb32a93bb23a3c1f32d3ef19ddd2799\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_530caf380e91c5df3dca1bb0aff18445b7a9f5f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_88e67ce4c707196547330d3e1120465c6b07872a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\milin\.android\build-cache\d6e2ebaa6f26a6d5b378db42f7a8e86a0ae3ca2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="C:\Users\milin\AndroidStudioProjects\DoodlChat\app\build\intermediates\pre-dexed\debug\classes_3da9ff60b274eff135086050780dd112ffed2a04.jar" />
+    </item>
+
+</items>

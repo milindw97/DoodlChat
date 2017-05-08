@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_friends"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mapps.doodlchat.AddFriendsActivity"
+    android:background="@drawable/backg">
+
+    <TextView
+        android:text="Add Friends"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:background="#f47849"
+        android:paddingBottom="10dp"
+        android:textStyle="bold"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Display2"
+        android:id="@+id/addFriendsTop"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addFriendsTop"
+        android:hint="Enter Email Id"
+        android:layout_marginTop="7dp"
+        android:layout_marginBottom="7dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+        android:gravity="center"
+        android:id="@+id/addByEmail"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/addByEmail"
+        android:text="Search User"
+        android:padding="15dp"
+        android:background="#777dbe"
+        android:id="@+id/searchUser"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/searchUser"
+        android:text="text"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/test1"
+        android:layout_margin="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/test1"
+        android:text="text"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/test2"
+        android:layout_margin="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/test2"
+        android:text="text"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/test3"
+        android:layout_margin="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/test3"
+        android:text="text"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/test4"
+        android:layout_margin="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/test4"
+        android:text="text"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/test5"
+        android:layout_margin="15dp"/>
+
+    <Button
+        android:id="@+id/addUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/addUser"
+        android:layout_below="@+id/test5"
+        android:layout_marginTop="13dp"
+        android:text="Add"
+        android:visibility="invisible"/>
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532603943537",
+    "firebase_url": "https://doodlchat.firebaseio.com",
+    "project_id": "doodlchat",
+    "storage_bucket": "doodlchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532603943537:android:01b1bcfcce3d0975",
+        "android_client_info": {
+          "package_name": "com.mapps.doodlchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532603943537-65ab2qfdtbu3p4hea2p9e70025d6cv3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapps.doodlchat",
+            "certificate_hash": "1ee8f5764cb4d371a8dcd32a147c52110289c6a9"
+          }
+        },
+        {
+          "client_id": "532603943537-3bqspg6isai1qih441gpqegaol1i036i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxQfatz4TqS9ybBz6Gf5x5gBmr-PDdJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532603943537-3bqspg6isai1qih441gpqegaol1i036i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

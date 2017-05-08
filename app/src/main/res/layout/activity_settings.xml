@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_settings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mapps.doodlchat.SettingsActivity"
+    android:background="@drawable/backg">
+
+    <TextView
+
+        android:text="Settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:background="#f47849"
+        android:paddingBottom="10dp"
+        android:textStyle="bold"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Display2"
+        android:id="@+id/settingsTop"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/settingsTop">
+
+        <Button
+            android:text="Profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/profileButton"
+            android:background="#abc123"
+            android:layout_marginTop="20dp"/>
+
+        <Button
+            android:text="Add Friends"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/addFriendsButton"
+            android:background="#999888"/>
+
+        <Button
+            android:text="Logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/logoutButton"
+            android:background="@color/colorAccent"/>
+
+        <Button
+            android:text="About"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/aboutButton"
+            android:background="@color/colorPrimary"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
